@@ -1,3 +1,4 @@
 # menalfadel
-🎓 Master's Student in Computer Engineering & Applied Image and Signal Processing  
+🎓 Computer Engineering Graduate
+🌍 Applied Image and Signal Processing Master's Student At FH salzburg  
 💡 Interested in Deep Learning, Medical Imaging, Signal Processing  
